@@ -1,10 +1,3 @@
-# Kriteria Proyek
-Seperti yang sudah Anda ketahui, kita akan membangun RESTful API untuk aplikasi catatan sederhana. Aplikasi ini berfungsi untuk menyimpan (create), melihat (read), mengubah (update), dan menghapus (delete) catatan. Fungsionalitas ini dikenal sebagai operasi CRUD.
-
-Dari segi Front-End (client), kami telah membuat aplikasi webnya. Kami juga telah men-deploy aplikasi tersebut sehingga Anda dapat mengaksesnya melalui tautan ini http://notesapp-v1.dicodingacademy.com/.
-
-Saat Anda mengaksesnya, aplikasi tersebut belum bisa digunakan. Anda tidak bisa melihat dan menambahkan catatan apa pun. Namun, percayalah! Aplikasi tersebut akan berfungsi dengan baik tatkala Anda sudah membuat RESTful API sesuai dengan kriteria yang dibutuhkan. Lantas, apa saja kriterianya?
-
 ## Kriteria 1: Web Server Dapat Menyimpan Catatan
 riteria pertama adalah web server dapat menyimpan catatan yang ditambahkan melalui aplikasi web. Tenang, untuk memenuhi kriteria ini, Anda tak perlu menggunakan database. Cukup simpan pada memory server dalam bentuk array JavaScript.
 
